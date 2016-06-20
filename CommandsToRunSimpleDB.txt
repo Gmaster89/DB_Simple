@@ -1,0 +1,7 @@
+java -cp /<local workspace path>/SimpleDB simpledb.server.Startup simpleDB 4
+
+or
+
+java -cp /<local workspace path>/SimpleDB simpledb.server.Startup simpleDB
+
+Here 4 is the reference value parameter. Default (if not given) is 5.
